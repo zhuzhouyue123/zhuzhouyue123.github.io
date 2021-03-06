@@ -1,5 +1,5 @@
 var imgDataPath = "/photos/photos.json"; //图片名称高宽信息json文件路径
-var imgPath = "https://cdn.jsdelivr.net/gh/zhuzhouyue123/images/gallery/"; //图片访问路径
+var imgPath = "https://zhuzhouyue.gitee.io/images/gallery/"; //图片访问路径
 var imgMaxNum = 50; //图片显示数量
 
 var windowWidth =
