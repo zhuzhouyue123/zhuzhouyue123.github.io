@@ -1371,3 +1371,12 @@ header label {
 .post-content pre .javascript .function {
   color: #8959a8;
 }
+@font-face {
+  font-family: Pacifico-Regular;
+  src: url("/fonts/Pacifico-Regular.ttf") format("truetype");
+}
+.navbar-header {
+  font-family: Pacifico-Regular;
+  font-size: 1.65rem;
+  padding-top: 0.189rem;
+}
