@@ -492,7 +492,7 @@ header label {
   -webkit-transform: translateY(0.1em) translateX(0.5em);
 }
 .copyright {
-  font-size: 14px;
+  font-size: 16px;
 }
 .pagination {
   display: flex;
@@ -579,7 +579,7 @@ header label {
   padding: 10px;
 }
 .intro .avatar img {
-  width: 128px;
+  width: 256px;
   height: auto;
   display: inline-block;
   -webkit-border-radius: 100%;
@@ -603,7 +603,7 @@ header label {
   cursor: pointer;
 }
 .nickname {
-  font-size: 2em;
+  font-size: 3em;
   font-weight: normal;
 }
 .links a {
