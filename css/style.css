@@ -1387,3 +1387,9 @@ header label {
 .nickname {
   font-family: Rage-Italic;
 }
+.menu-item {
+  font-size: 20px;
+}
+.description {
+  font-size: 20px;
+}
