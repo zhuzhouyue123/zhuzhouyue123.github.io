@@ -1373,7 +1373,7 @@ header label {
 }
 @font-face {
   font-family: Pacifico-Regular;
-  src: url("/fonts/Pacifico-Regular.ttf") format("truetype");
+  src: url("/fonts/Pacifico-Regular.woff2") format("woff2");
 }
 @font-face {
   font-family: Rage-Italic;
