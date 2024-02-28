@@ -579,7 +579,7 @@ header label {
   padding: 10px;
 }
 .intro .avatar img {
-  width: 256px;
+  width: 384px;
   height: auto;
   display: inline-block;
   -webkit-border-radius: 100%;
@@ -603,7 +603,7 @@ header label {
   cursor: pointer;
 }
 .nickname {
-  font-size: 3em;
+  font-size: 4em;
   font-weight: normal;
 }
 .links a {
@@ -1375,8 +1375,15 @@ header label {
   font-family: Pacifico-Regular;
   src: url("/fonts/Pacifico-Regular.ttf") format("truetype");
 }
+@font-face {
+  font-family: Rage-Italic;
+  src: url("/fonts/RAGE.TTF") format("truetype");
+}
 .navbar-header {
   font-family: Pacifico-Regular;
   font-size: 1.65rem;
   padding-top: 0.189rem;
+}
+.nickname {
+  font-family: Rage-Italic;
 }
